@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeet Prosad Mandal</h1>
-<h3 align="center">2nd Year CSE Student | Data Science Enthusiast | Building Ideas with Code</h3>
+<h3 align="center">3rd Year CSE Student | Data Science Enthusiast | Building Ideas with Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpm5109&label=Profile%20views&color=0e75b6&style=flat" alt="jpm5109" /> </p>
 
@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpm5109&show_icons=true&locale=en" alt="jpm5109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpm5109&" alt="jpm5109" /></p>
+abc def ghi jkl mno pqr stu
