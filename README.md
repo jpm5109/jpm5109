@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [VaultChat: Multi-Platform Encrypted Chat System](https://encrypt-chat-system.vercel.app/)
 
-- 📫 How to reach me **jeetprasadmandal@gmail.com**
+- 📫 How to reach me **jeetprosadmandal01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpm5109&show_icons=true&locale=en" alt="jpm5109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jpm5109&" alt="jpm5109" /></p>
+abc def ghi jkl mno pqr stu
 abc def ghi jkl mno pqr stu
